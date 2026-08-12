@@ -14,7 +14,6 @@ const LABELS = {
   hishtalmut: 'קרן השתלמות',
   pension: 'קרן פנסיה',
   gemel_regular: 'קופת גמל',
-  child_savings: 'חיסכון לכל ילד',
 };
 
 export default async function handler(req, res) {
